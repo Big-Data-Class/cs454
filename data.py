@@ -22,12 +22,10 @@ for row in soup('p', {'class': 'row'}):
 
     for i in range(3, 15):
         try:
-
             if "(" in data[i]:
                 location = data[i]
                 while ")" not in location:
                     location = location + " " + data[i+1]
-                i = 15
                 break
             else:
                 car += data[i] + " "
