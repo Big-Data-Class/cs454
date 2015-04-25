@@ -8,16 +8,35 @@ soup = BeautifulSoup(urllib.urlopen('http://losangeles.craigslist.org/search/cta
 
 
 for row in soup('p', {'class': 'row'}):
-    price = row.getText().split()[0]
-    date = row.getText().split()[1] + " " + row.getText().split()[2]
+    data = row.getText().split()
     car = " "
+    location = " "
+
+
+    if "$" in data[0]:
+        price = data[0]
+        date = data[1] + " " + data[2]
+    else:
+        price = " "
+        date = data[0] + " " + data[1]
+
     for i in range(3, 15):
         try:
-            car += row.getText().split()[i] + " "
+
+            if "(" in data[i]:
+                location = data[i]
+                while ")" not in location:
+                    location = location + " " + data[i+1]
+                i = 15
+                break
+            else:
+                car += data[i] + " "
         except IndexError:
-            print " "
+            print ""
+
     print "price: " + price
     print "date: " + date
     print "car: " + car
+    print "location: " + location
     print "-------------"
 
