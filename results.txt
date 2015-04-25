@@ -1,423 +1,56 @@
 C:\Python27\python.exe C:/Users/Duran/PycharmProjects/BigData/Project1/main.py
-price: $4500
-date: Apr 21
-car:  1998 TOYOTA CAMRY LE, 4DR SEDAN, $4500, I FINANCE HERE MYSELF, $4500 
+price: $2950
+date: Apr 24
+car:  FORD FOCUS 2003 $2950 
+location: (HESPERIA CA)
 -------------
-price: $7800
-date: Apr 21
-car:  2000 Ford Excursion 4x4 $7800 (Downey) pic cars & trucks - by 
--------------
-price: $3000
-date: Apr 21
-car:  Chevy trucks trade $3000 (Lancaster) pic map cars & trucks - by 
--------------
- 
-price: Apr
-date: 21 Twin
-car:  turbo 1970 FJ40 (Clovis) pic cars & trucks - by owner 
--------------
-price: $5250
-date: Apr 21
-car:  =================================== 2006 CHRYSLER 300 TOURING ======== $5250 (south los angeles) pic map 
+price: $2100
+date: Apr 24
+car:  98 GMC 1500 Suburban For Sale $2100 
+location: (panorama city)
 -------------
 price: $5900
-date: Apr 21
-car:  2003 Audi quattro turbo $5900 (Anaheim ca) pic map cars & trucks 
+date: Apr 24
+car:  2003 FORD EXPEDITION $5900 
+location: (BALDWIN PARK)
 -------------
-price: $3700
-date: Apr 21
-car:  BMW 323i $3700 (Bell CA) pic cars & trucks - by owner 
+price: $2950
+date: Apr 24
+car:  FORD FOCUS 2003 $2950 
+location: (HESPERIA CA)
+-------------
+price:  
+date: Apr 24
+car:  chevelle ss big block 396/402 1 owner car with original title pic 
+location:  
 -------------
 price: $4500
-date: Apr 21
-car:  92 Mercedes 300ce $4500 (torrance) pic map cars & trucks - by 
+date: Apr 24
+car:  2004 FORD E250 CARGO VAN .v6...v6...v6..VAN DE TRABAJO $4500 
+location: (SAN FERNANDO)
 -------------
-price: $1100
-date: Apr 21
-car:  93 Ford Escort 4cly very strong and reliable great gas saver reg 
--------------
-price: $3900
-date: Apr 21
-car:  1988 Mazda B2200 Pickup Cab-Plus (Extra-Cab) $3900 (El Monte) pic map cars 
--------------
-price: $3000
-date: Apr 21
-car:  2000 V6 163XXX MILES Ford Mustang Convertible $3000 (San Pedro) pic map 
--------------
-price: $30000
-date: Apr 21
-car:  05 ford f-550 $30000 (thousand oaks) pic map cars & trucks - 
--------------
-price: $2000
-date: Apr 21
-car:  1988 Toyota Corolla GT-S $2000 pic cars & trucks - by owner 
--------------
-price: $3100
-date: Apr 21
-car:  2002 Honda Accord $3100 (palmdale) pic cars & trucks - by owner 
--------------
-price: $5500
-date: Apr 21
-car:  2005 dodge magnum $5500 (south gate) pic map cars & trucks - 
--------------
-price: $12000
-date: Apr 21
-car:  2003 mustang mach 1 $12000 (88000) pic cars & trucks - by 
--------------
-price: $1500
-date: Apr 21
-car:  White Dodge Intrepid $1500 (Long beach) map cars & trucks - by 
--------------
-price: $3200
-date: Apr 21
-car:  2000 GMC Sierra $3200 (Los Angeles) pic cars & trucks - by 
--------------
-price: $1300
-date: Apr 21
-car:  truck and camper $1300 (littlerock) pic map cars & trucks - by 
--------------
- 
-price: Apr
-date: 21 tapadeta
-car:  para Ram1500 $450 pic map cars & trucks - by owner 
--------------
-price: $1000
-date: Apr 21
-car:  Wanted HONDA 95+ TRADING $ & huge Amiibo collection $1000 (anywhere) cars 
--------------
- 
- 
-price: Apr
-date: 21 1969
-car:  impala trade (Oc) pic cars & trucks - by owner 
--------------
-price: $5500
-date: Apr 21
-car:  vendo de oportunidad pic up $5500 (thousand oaks) pic cars & trucks 
--------------
- 
- 
-price: Apr
-date: 21 1969
-car:  impala trade (Oc) pic cars & trucks - by owner 
--------------
-price: $13000
-date: Apr 21
-car:  1975 Bricklin SV-1 $13000 (Reno) pic map cars & trucks - by 
--------------
-price: $8995
-date: Apr 21
-car:  2004 Mini Cooper Excellent Cond.Super Clean. $8995 (venice) pic map cars & 
--------------
-price: $33500
-date: Apr 21
-car:  2012 BMW 135i coupe $33500 (Modesto) map cars & trucks - by 
--------------
- 
-price: $2300
-date: Apr 21
-car:  selling my prelude $2300 pic cars & trucks - by owner 
--------------
-price: $3500
-date: Apr 21
-car:  1973 chevy van trade ? $3500 (av) pic cars & trucks - 
--------------
-price: $3800
-date: Apr 21
-car:  2005 ford focus $3800 (La verne) pic cars & trucks - by 
+price: $2950
+date: Apr 24
+car:  FORD FOCUS 2003 $2950 
+location: (HESPERIA CA)
 -------------
 price: $2800
-date: Apr 21
-car:  1965 elcamino trade ? $2800 (av) pic map cars & trucks - 
+date: Apr 24
+car:  2001 Cadillac Deville $2800 pic cars & trucks - by owner [xundo] 
+location:  
+-------------
+price: $4999
+date: Apr 24
+car:  2001 Mercedes Benz C320 $4999 
+location: (Glendale)
+-------------
+price: $5400
+date: Apr 24
+car:  2002 Chevy Silverado Ext. Cab 5.3L Salvage Title $5400 
+location: (Pico rivera)
+-------------
+price: $8550
+date: Apr 24
+car:  2007 BMW 530I 104K MILES $8550 
+location: (carson)
 -------------
-price: $6900
-date: Apr 21
-car:  2005 HONDA ACCORD LX $6900 (GLENDALE) cars & trucks - by owner 
--------------
-price: $10
-date: Apr 21
-car:  blown 350 trade ?? $10 (av) pic map cars & trucks - 
--------------
-price: $10
-date: Apr 21
-car:  blown 350 trade ?? $10 (av) pic map cars & trucks - 
--------------
-price: $2700
-date: Apr 21
-car:  VENDO DE OPOTUNIDAD $2700 (panorama city) pic map cars & trucks - 
--------------
-price: $41350
-date: Apr 21
-car:  1948 Mercury Convertible $41350 (Lancaster, Calif.) pic cars & trucks - by 
--------------
-price: $1
-date: Apr 21
-car:  Srt-4 turbo $1 (long beach) pic map cars & trucks - by 
--------------
-price: $9490
-date: Apr 21
-car:  2001 Porsche Boxster 2dr Roadster S 6-Spd Manual $9490 pic map cars 
--------------
-price: $19000
-date: Apr 21
-car:  2006 Chrysler 300 Srt8 $19000 (Sun Valley) pic cars & trucks - 
--------------
-price: $2500
-date: Apr 21
-car:  1988 IROC Z CONVERTABLE PROJECT $2500 (Storage Yard) pic cars & trucks 
--------------
-price: Apr
-date: 21 JEEP
-car:  J20 /TOW TRUCK OR JEEP CJ7 TRADE (lancaster) pic map cars & 
--------------
-price: $1800
-date: Apr 21
-car:  Mercedes-Benz 300sd diesel $1800 (Ladera) pic cars & trucks - by owner 
--------------
-price: $700
-date: Apr 21
-car:  1985 MBZ 300E $700 (Storage Yard) pic cars & trucks - by 
--------------
-price: $1700
-date: Apr 21
-car:  1995 Honda Accord EX $1700 (Diamond Bar) pic map cars & trucks 
--------------
-price: $5600
-date: Apr 21
-car:  1998 Chevy Camaro Z28 LS1 $5600 (Santa Ana) pic map cars & 
--------------
-price: $7900
-date: Apr 21
-car:  F/S: Rare 1993 Pontiac Firehawk #173 of 201 Made $7900 (Palmdale Ca) 
--------------
-price: $8000
-date: Apr 21
-car:  2005 Audi S4 4.2L V8 $8000 (Riverside) pic map cars & trucks 
--------------
-price: $3300
-date: Apr 21
-car:  2002 YUKON XL $3300 (LOS ANGELES) pic map cars & trucks - 
--------------
-price: $3000
-date: Apr 21
-car:  van 1989 chevy sportvan 5.7 tbi $3000 (sun valley) pic cars & 
--------------
-price: $1000
-date: Apr 21
-car:  BMW 1992 Black 325 i $1000 (Van nuys) pic cars & trucks 
--------------
-price: $3000
-date: Apr 21
-car:  2002 Honda Civic LX Coupe $3000 (Long Beach) cars & trucks - 
--------------
- 
-price: $16500
-date: Apr 21
-car:  1972 CHEVY CHEVELLE $16500 pic cars & trucks - by owner 
--------------
-price: $3500
-date: Apr 21
-car:  2001 dodge stratus se trade ?? $3500 (av) pic map cars & 
--------------
-price: $1200
-date: Apr 21
-car:  92' Toyota tercel $1200 pic map cars & trucks - by owner 
--------------
-price: $900
-date: Apr 21
-car:  Mitsubishi Mirage!!! Must sell asap!!! $900 (Pasadena) cars & trucks - by 
--------------
-price: $4000
-date: Apr 21
-car:  2004 honda civic $4000 (south los angeles) pic cars & trucks - 
--------------
-price: $3000
-date: Apr 21
-car:  1987 Nissan Maxima Wagon $3000 pic cars & trucks - by owner 
--------------
-price: $9000
-date: Apr 21
-car:  1950 Chevy deluxe styleline $9000 (Bell Gardens) pic map cars & trucks 
--------------
-price: $7500
-date: Apr 21
-car:  BMW 328Ci Sport $7500 (Rancho Cucamonga) pic cars & trucks - by 
--------------
- 
-price: $875
-date: Apr 21
-car:  94 toyota corolla $875 pic cars & trucks - by owner 
--------------
- 
-price: Apr
-date: 21 Skyline
-car:  r32 gtr fed legal pic cars & trucks - by owner 
--------------
-price: $17000
-date: Apr 21
-car:  1972 ford f250 highboy $17000 pic cars & trucks - by owner 
--------------
-price: $3300
-date: Apr 21
-car:  2002 GMC YUKON XL $3300 (los angeles) pic map cars & trucks 
--------------
-price: $3500
-date: Apr 21
-car:  2002 Mercedes Benz C240 - 6 Speed manual $3500 (Woodland Hills) pic 
--------------
-price: $26000
-date: Apr 21
-car:  Dodge Ram 2013 5.7 L $26000 (Montebello) pic map cars & trucks 
--------------
-price: $7995
-date: Apr 21
-car:  2003 Mercedes Benz E 320 Excellent Cond Loaded Carfax Looks/Runs Great $7995 
--------------
-price: $8500
-date: Apr 21
-car:  2004 Porsche Cayenne, Very Clean, Clean Title, 3.2 V6, Mint Condition $8500 
--------------
-price: $4450
-date: Apr 21
-car:  96 Toyota Tacoma $4450 (Maywood) pic cars & trucks - by owner 
--------------
- 
- 
- 
-price: $3500
-date: Apr 21
-car:  2000 Sienna $3500 cars & trucks - by owner 
--------------
-price: $5500
-date: Apr 21
-car:  BMW M3 Look BMW 325i 2001 $5500 (Koreatown) pic map cars & 
--------------
-price: $10000
-date: Apr 21
-car:  1975 Bricklin SV-1 $10000 (Reno) pic cars & trucks - by owner 
--------------
- 
- 
- 
-price: $3500
-date: Apr 21
-car:  Odyssey $3500 map cars & trucks - by owner 
--------------
-price: $11000
-date: Apr 21
-car:  1984 OLDS HURST $11000 (213) pic map cars & trucks - by 
--------------
-price: $1400
-date: Apr 21
-car:  1993 honda civic v4 $1400 (Lynwood) pic cars & trucks - by 
--------------
-price: $6300
-date: Apr 21
-car:  2011 mitsubishi LancerÂ $6300 (compton) pic map cars & trucks - by 
--------------
-price: $8700
-date: Apr 21
-car:  2002 Mercedes CL500 **IMMACULATE** 1 Owner with 65K miles 1of a kind! 
--------------
- 
- 
-price: $2500
-date: Apr 21
-car:  Nissan Altima $2500 pic cars & trucks - by owner 
--------------
-price: $1
-date: Apr 21
-car:  Chevy silverado $1 (Ventura county) pic cars & trucks - by owner 
--------------
-price: $31500
-date: Apr 21
-car:  Porsche Carrera 911 Perfect condition $31500 (La Canada) pic map cars & 
--------------
-price: $15000
-date: Apr 21
-car:  2002 CAMARO SS 35TH LE TURBO $15000 (MODESTO CA) pic cars & 
--------------
-price: $8990
-date: Apr 21
-car:  2004 Nissan Murano 4dr SL 2WD V6 $8990 pic map cars & 
--------------
- 
-price: $2500
-date: Apr 21
-car:  1988 Suzuki $2500 (Pacomia) pic cars & trucks - by owner 
--------------
-price: $1900
-date: Apr 21
-car:  2002 Jag xtype trans problem $1900 (burbank) pic map cars & trucks 
--------------
-price: $36500
-date: Apr 21
-car:  24 passenger limo party bus with storage Krystal Coach KK23 $36500 (los 
--------------
- 
-price: $2000
-date: Apr 21
-car:  1995 Toyota Avalon $2000 map cars & trucks - by owner 
--------------
-price: $12600
-date: Apr 21
-car:  International 4900 DT 466 $12600 (Oxnard) pic cars & trucks - by 
--------------
-price: $875
-date: Apr 21
-car:  honda civic $875 (los angeles) pic cars & trucks - by owner 
--------------
-price: $31500
-date: Apr 21
-car:  Porsche Carrera 911 Perfect condition $31500 (La Canada) pic map cars & 
--------------
-price: $850
-date: Apr 21
-car:  1962 C10 Apache Short Step side $850 or parting out $850 (Covina) 
--------------
-price: $11000
-date: Apr 21
-car:  Range Rover 2003 $11000 (Van Nuys) pic map cars & trucks - 
--------------
-price: $18500
-date: Apr 21
-car:  Lincoln Towncar $18500 (Van Nuys) pic map cars & trucks - by 
--------------
-price: $12000
-date: Apr 21
-car:  Box truck for sale $12000 (calabasas) pic cars & trucks - by 
--------------
-price: $1700
-date: Apr 21
-car:  83.chevy blazer k5.v8 motor $1700 (BELLFLOWER) pic map cars & trucks - 
--------------
-price: $7000
-date: Apr 21
-car:  porsche cayanne 2004 $7000 (porche cayenne) pic map cars & trucks - 
--------------
-price: $5600
-date: Apr 21
-car:  96 GEO TRACKER $5600 (United States) pic map cars & trucks - 
--------------
-price: $7500
-date: Apr 21
-car:  2005 porsche cayanne s $7500 (2005 porche cayenne s) pic map cars 
--------------
-price: $5900
-date: Apr 21
-car:  2004 Ford Explorer 3rd row $5900 (riverside) pic map cars & trucks 
--------------
-price: $8500
-date: Apr 21
-car:  2004 Nissan Murano $8500 (Glendale) pic map cars & trucks - by 
--------------
-price: $2400
-date: Apr 21
-car:  2002 HONDA ACCORD 4CYL SEDAN RINES $2400 pic map cars & trucks 
--------------
-price: $12300
-date: Apr 21
-car:  range rover sport 2006 $12300 pic cars & trucks - by owner 
--------------
-
-Process finished with exit code 0
