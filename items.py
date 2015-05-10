@@ -11,8 +11,10 @@ from scrapy.item import Item, Field
 class CraigslistSampleItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    
+
     title = Field()
-    time = Field()
     price = Field()
+    time = Field()
+    detailedTime = Field()
+    area = Field()
     pass
