@@ -23,7 +23,8 @@ class MySpider(Spider):
             link = row.xpath('.//span[@class = "pl"]')
             item ["title"] = link.xpath("a/text()").extract()
             item ["time"] = link.xpath("time/text()").extract()
+            item ["detailedTime"] = row.xpath(".//span/time/@datetime").extract()
             item ["price"] = row.xpath('.//span[@class="l2"]/span[@class="price"]/text()').extract()
-            
+            item ["area"] = row.xpath(".//span[@class='l2']/span[@class='pnr']/small/text()").extract()
             items.append(item)
         return items
