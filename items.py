@@ -13,8 +13,12 @@ class CraigslistSampleItem(scrapy.Item):
     # name = scrapy.Field()
 
     title = Field()
-    price = Field()
-    time = Field()
+    date = Field()
     detailedTime = Field()
+    model = Field()
+    price = Field()
+    odometer = Field()
+    status = Field()
     area = Field()
+    link = Field()
     pass
