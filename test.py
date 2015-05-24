@@ -25,7 +25,7 @@ class MySpider(Spider):
             item ["title"] = link.xpath("a/text()").extract()
             item ["date"] = link.xpath("time/text()").extract()
             item ["detailedTime"] = row.xpath(".//span/time/@datetime").extract()
-            item ["price"] = row.xpath('.//span[@class="l2"]/span[@class="price"]/text()').extract()
+            item ["price"] = row.xpath('.//span[@class="l2"]/span[@class="price"]/text()').re("[0-9,]+")
             item ["area"] = row.xpath(".//span[@class='l2']/span[@class='pnr']/small/text()").extract()
             item ["link"] = row.xpath("a/@href").extract()
             
