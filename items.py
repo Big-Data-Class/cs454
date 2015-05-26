@@ -21,4 +21,5 @@ class CraigslistSampleItem(scrapy.Item):
     status = Field()
     area = Field()
     link = Field()
+    location = Field()
     pass
