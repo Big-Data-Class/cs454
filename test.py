@@ -7,7 +7,7 @@ class MySpider(Spider):
     name = "craig"
     allowed_domains = ["craigslist.org"]
     start_urls = []
-    for i in range(0, 25):
+    for i in range(0, 1):
         if(i == 0):
             url = "http://losangeles.craigslist.org/search/cta"
             start_urls.append(url)
@@ -38,7 +38,7 @@ class MySpider(Spider):
         item = response.meta["item"]
         attrGroup = response.xpath("//p[@class = 'attrgroup']")
         item ["model"] = attrGroup.xpath("span/b/text()")[0].extract()
-        temp = attrGroup.xpath("span")[1].xpath("b/text()").extract()
+        item ["location"] = response.xpath('//li[@class="crumb subarea"]/a/text()').extract()
         try:
             item ["odometer"] = attrGroup.xpath("span")[1].xpath("b/text()").extract()
         except:
